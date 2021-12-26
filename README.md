@@ -5,6 +5,7 @@
 - Visual Studio 2019
 - MSTest.TestFramework 2.2.3
 - Moq 4.16.1
+- Microsoft.Extensions.Hosting 5.0
 
 ## Installation
 
